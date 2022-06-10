@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am44r&label=Profile%20views&color=2e24bd&style=for-the-badge" alt="am44r" /> </p>
 I am an incoming Waterloo Biomed student with a passion for reading📚, programming🖥️ and football⚽. I am currently looking for new oppurtunites to improve and increase my knowledge! I'm trying to meet new people and increase my network so if you're down dm me!<br/><br/>
 
-[![am44r's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am44r&hide=Processing&theme=onedark&hide_border=false&border_radius=3&card_width=250)](https://github.com/MostafaH04)
+[![am44r's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am44r&hide=Processing&theme=onedark&hide_border=false&layout=compact&border_radius=3&card_width=250)](https://github.com/MostafaH04)
+[![am44r's GitHub stats](https://github-readme-stats.vercel.app/api?username=am44r&theme=onedark&show_icons=true)](https://github.com/am44r)
 <br/><br/>
 
 
